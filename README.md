@@ -9,13 +9,13 @@ Foundry consists of:
 -   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
 -   **Chisel**: Fast, utilitarian, and verbose solidity 
 
-#WHAT IS THIS PROJECT ABOUT?
+# WHAT IS THIS PROJECT ABOUT?
 Well, This is a smart contract lottery project.Which generates some random numbers , pick a winner from the participants.
 
 #WHY THIS PROJECT IS REAL LIFE BASED?
 In real life, the result of the lottery can be mannipulated, where as in this prject it is been taken care of by using "CHAINLINK VRF "-> It is a random number generator. 
 
-#WHAT IS SPEACIAL ABOUT THIS PROJECT?
+# WHAT IS SPEACIAL ABOUT THIS PROJECT?
 In case of generating a random number and a subscription, I need to interact with CHAINLINK NODES, 
 It can be done by Two Ways
 1.Through Chainlink UI (You can search Chainlink VRF ->Then go through the docs)
@@ -24,7 +24,7 @@ It can be done by Two Ways
 As a programmer(Beginner) ,i did this Programmatically.
 
 
-#ADDITIONAL FEATURES
+# ADDITIONAL FEATURES
  This project is "nearly" ready to be deployed on both ANVIL (Local Chain) and Sepolia Network, and I will add MANNIET Network .
 
 #Conclusion
